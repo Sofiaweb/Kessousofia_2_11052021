@@ -1,6 +1,8 @@
 
+
+
 /* GOOGLE FONT */
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;500;600;700;800;900&display=swap");
+
 
 :root {
     --primary: #0065fc;
@@ -540,7 +542,7 @@ color: #b9b9b9;
     }
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1440px) {
     .lodging-section {
         flex-direction: column-reverse;
     }
@@ -573,7 +575,12 @@ color: #b9b9b9;
         margin: 0;
     }
 }
-
+@media (max-width: 535px){
+    body{
+        width: 535px;
+        max-width: 535px
+    }
+}
 @media screen and (max-width: 750px) {
     .lodging-resum {
         background-color: #fff;
@@ -665,6 +672,7 @@ color: #b9b9b9;
     text-decoration: none;
     background-size: 5em 100%;
 }
+
 
 
 

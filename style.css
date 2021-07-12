@@ -1,6 +1,5 @@
 
 
-
 /* GOOGLE FONT */
 
 
@@ -542,7 +541,7 @@ color: #b9b9b9;
     }
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 992px) {
     .lodging-section {
         flex-direction: column-reverse;
     }

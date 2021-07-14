@@ -176,7 +176,7 @@ main {
     width: 14rem;
     font-size: 1em;
     font-family: "Raleway", sans-serif;
-    font-weight: 600;
+    font-weight: bold;
     padding-left: 10px;
 }
 .research-input:hover {
@@ -199,7 +199,7 @@ main {
     border-radius: 0 15px 15px 0;
     color: #fff;
     font-family: "Raleway", sans-serif;
-    font-weight: 800;
+    font-weight: bold;
     font-size: 1rem;
     padding-left: 1em;
     padding-right: 1em;
@@ -671,6 +671,9 @@ color: #b9b9b9;
     text-decoration: none;
     background-size: 5em 100%;
 }
+
+
+
 
 
 
